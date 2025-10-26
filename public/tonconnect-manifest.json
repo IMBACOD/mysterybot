@@ -1,1 +1,7 @@
-
+{
+  "url": "https://mysterybot.pages.dev/tonconnect-manifest.json",
+  "name": "MysteryNFT Bot",
+  "iconUrl": "https://mysterybot.pages.dev/icon.png",
+  "termsOfUseUrl": "https://mysterybot.pages.dev/TERMS.md",
+  "privacyPolicyUrl": "https://mysterybot.pages.dev/PRIVACY.md"
+}
