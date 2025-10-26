@@ -1,5 +1,7 @@
 {
-  "url": "https://github.com/IMBACOD/mysterybot.git",
-  "name": "MysteryNFT Bot"
-
+  "url": "https://github.com/IMBACOD/mysterybot",
+  "name": "MysteryNFT Bot",
+  "iconUrl": "https://raw.githubusercontent.com/IMBACOD/mysterybot/main/Frame 80 (2).png",
+  "termsOfUseUrl": "https://github.com/IMBACOD/mysterybot",
+  "privacyPolicyUrl": "https://github.com/IMBACOD/mysterybot"
 }
