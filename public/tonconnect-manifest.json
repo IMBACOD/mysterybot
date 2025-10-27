@@ -2,5 +2,5 @@
 {
   "url": "https://raw.githubusercontent.com/IMBACOD/mysterybot/refs/heads/main/public/tonconnect-manifest.json",
   "name": "MysteryNFT Bot",
-  "iconUrl": "https://mysterybot.pages.dev/icon.png"
+  "iconUrl": "https://raw.githubusercontent.com/IMBACOD/mysterybot/refs/heads/main/public/icon.png"
 }
